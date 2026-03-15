@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Manuel Salgado 👋
 
-<!--
-**Manuelss20/Manuelss20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Passionate about programming, technology, and continuous learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Software Engineering student currently building a strong foundation in computer science and programming.  
+I enjoy learning new technologies, solving problems, and developing projects that help me grow as a developer.
+
+---
+
+## Currently Learning
+
+- Java and Object-Oriented Programming
+- Python programming
+- Computer Science fundamentals
+- Algorithms and problem solving
+
+---
+
+## Technologies
+
+- Java
+- Python
+- Git & GitHub
+- Terminal / Command Line
+
+---
+
+## Projects
+
+Here are some repositories where I document my learning journey:
+
+- **java-oop-practice**  
+  Exercises and small projects focused on Object-Oriented Programming concepts in Java.
+
+- **cs50-projects**  
+  Problem sets and projects from Harvard's CS50 course.
+
+- **python-practice**  
+  Small programs and exercises to practice Python.
+
+---
+
+## Goals
+
+- Become a strong software developer
+- Build meaningful projects
+- Contribute to open-source in the future
+- Continuously improve my programming and problem-solving skills
+
+---
+
+## Contact
+
+- GitHub: https://github.com/Manuelss20
