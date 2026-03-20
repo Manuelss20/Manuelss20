@@ -42,6 +42,7 @@ Here are some repositories where I document my learning journey:
 
 - **python-practice**  
   Small programs and exercises to practice Python.
+- **ludic-python**
 
 ---
 
