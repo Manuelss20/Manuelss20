@@ -1,4 +1,4 @@
-# Hi, I'm Manuel Salgado 👋
+# Hi, I'm Manuel Salgado 
 
 🎓 Software Engineering Student  
 💻 Passionate about programming, technology, and continuous learning
