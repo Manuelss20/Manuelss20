@@ -1,7 +1,7 @@
 # Hi, I'm Manuel Salgado 
 
-🎓 Software Engineering Student  
-💻 Passionate about programming, technology, and continuous learning
+Software Engineering Student  
+Passionate about programming, technology, and continuous learning
 
 ---
 
